@@ -1,0 +1,12 @@
+starting file 1 2015-05-20 15:52:04
+end file 1 2015-05-20 15:52:38
+starting file 2 2015-05-20 15:52:38
+end file 2 2015-05-20 15:53:13
+starting file 3 2015-05-20 15:53:13
+end file 3 2015-05-20 15:53:47
+starting file 1 2015-05-20 15:55:19
+end file 1 2015-05-20 15:55:54
+starting file 2 2015-05-20 15:55:54
+end file 2 2015-05-20 15:56:28
+starting file 3 2015-05-20 15:56:28
+end file 3 2015-05-20 15:57:03
